@@ -1,0 +1,8 @@
+﻿  BSTree.cpp
+  Source.cpp
+  Generating Code...
+C:\Users\Rizwan\Desktop\Solutions\BinaryTree\Binary Search Tree\Binary Search Tree\BSTree.cpp(216): warning C4715: 'BSTree::findMin': not all control paths return a value
+C:\Users\Rizwan\Desktop\Solutions\BinaryTree\Binary Search Tree\Binary Search Tree\BSTree.cpp(261): warning C4715: 'BSTree::findMinRec': not all control paths return a value
+C:\Users\Rizwan\Desktop\Solutions\BinaryTree\Binary Search Tree\Binary Search Tree\BSTree.cpp(276): warning C4715: 'BSTree::findMaxRec': not all control paths return a value
+C:\Users\Rizwan\Desktop\Solutions\BinaryTree\Binary Search Tree\Binary Search Tree\BSTree.cpp(225): warning C4715: 'BSTree::findMax': not all control paths return a value
+  BasicFundamental.vcxproj -> C:\Users\Rizwan\Desktop\Solutions\BinaryTree\BinarySearchTree\x64\Debug\BasicFundamental.exe
